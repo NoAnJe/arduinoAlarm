@@ -1,0 +1,1 @@
+This is a project that is intended to run an alarm clock through an Arduino base, using completely C++ programming. Anyone is able to clone this project and use their own music as the alarm settings. I will later include sketch files for the circuitry.
